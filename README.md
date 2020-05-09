@@ -10,8 +10,6 @@
 ## Table of Contents 
 
 - <a href="https://github.com/codewitty/myLibrary/blob/master/validate_number_input.cpp" target="_blank">Validate Positive Integer Input</a> 
-- [Clone](#Clone)
-- [Support](#Support)
 
 
 ---
@@ -21,7 +19,9 @@
 - Clone this repo to your local machine using `https://github.com/codewitty/myLibrary.git`
 
 
-- **HACK AWAY!** 🔨🔨🔨
+---
+
+## **HACK AWAY!** 🔨🔨🔨
 
 ## Support
 
