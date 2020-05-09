@@ -10,7 +10,7 @@
 ## Table of Contents 
 
 
-- [Validate Positive Integer Input](#validatepositiveintegerinput)
+- [Validate Positive Integer Input](#validate positive integer input)
 
 ---
 
