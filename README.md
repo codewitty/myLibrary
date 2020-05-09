@@ -15,12 +15,12 @@
 ---
 
 ### Validate Positive Integer Input 
-	- This function takes the input entered by the user in the form of a string
-	  and validates it to ensure that the input doesn't contain invalid characters
-	  or symbols. The number is then converted to an int or float as needed.
-	  The function uses getline and 'find_if_not' from the algorithm library to 
-	  perform the input validation. 
-	- Find the function <a href="../blob/master/validate_number_input.cpp/" target="_blank">`here`</a>
+- This function takes the input entered by the user in the form of a string
+  and validates it to ensure that the input doesn't contain invalid characters
+  or symbols. The number is then converted to an int or float as needed.
+  The function uses getline and 'find_if_not' from the algorithm library to 
+  perform the input validation. 
+- Find the function <a href="../blob/master/validate_number_input.cpp/" target="_blank">`here`</a>
 
 ---
 
