@@ -37,8 +37,6 @@ int getNumber() {
 			cout << "Error!! Invalid input detected. Enter a positive number please: ";
 			getline(cin, num);
 		}
-		if (num.empty())
-			continue;
 		//validNumber = stof(num);			// Convert to float
         else
             break;
