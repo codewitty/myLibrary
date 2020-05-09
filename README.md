@@ -14,6 +14,17 @@
 
 ---
 
+## Clone
+
+- Clone this repo to your local machine using `https://github.com/codewitty/myLibrary.git`
+
+
+---
+
+## **HACK AWAY!** 🔨🔨🔨
+
+---
+
 ### Validate Positive Integer Input 
 - This function takes the input entered by the user in the form of a string
   and validates it to ensure that the input doesn't contain invalid characters
@@ -23,15 +34,6 @@
 - Find the function <a href="https://github.com/codewitty/myLibrary/blob/master/validate_number_input.cpp/" target="_blank">`here`</a>
 
 ---
-
-## Clone
-
-- Clone this repo to your local machine using `https://github.com/codewitty/myLibrary.git`
-
-
----
-
-## **HACK AWAY!** 🔨🔨🔨
 
 ## Support
 
