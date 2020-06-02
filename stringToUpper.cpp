@@ -3,7 +3,10 @@
 
 using namespace std;
 
+// *************************************************************
 // Function to convert a letter to uppercase
+// *************************************************************
+
 int	ft_toupper(int c)
 {
 	if (c >= 'a' && c <= 'z')
@@ -12,7 +15,10 @@ int	ft_toupper(int c)
 		return (c);
 }
 
+// *************************************************************
 // Function to convert a string to uppercase
+// *************************************************************
+
 string toUpperString(string in){
 	for(int i = 0; i < in.length(); ++i) {
 		in[i] = ft_toupper(in[i]);
@@ -20,7 +26,9 @@ string toUpperString(string in){
 	return in;
 }
 
+// *************************************************************
 // Example driver code
+// *************************************************************
 
 int main() {
 	string str = "Hello";
