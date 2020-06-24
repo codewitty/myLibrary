@@ -32,8 +32,7 @@ void removeDupWord(string str)
 // Driver function 
 int main() 
 { 
-    string str = "#hikemore #outdoorsy #optoutside #mountains #ZionNPS #utah #nps #naturelovers #natureporn #hikingtherapy #snapseed  #serene #naturelovers #adventureiscalling  #optoutside #hikinglifestyle #outdooraddict #idhikethat #allaboutadventures #yosemite #adventureculture #nps #findyourpark #nationalparkgeek #YosemiteNPS #cloudsandmountains"
-"#hikingismagical #peoplewhoadventure  #trekkingtoes  #hikingheartbeat #gogalavanting  #outdoorsy #hikemore #mountainpeopleunite #findyourpark #optoutside #naturelovers #sheisnotlost #womenwhohike #natureporn #naturephotography #mountainporn #explore #travelgram #outdoorculture #landscapephotography #outdoors #instatravel #roadtrip #nationalparkgeek #angelslanding #snapseed #instapic  #instagood #view  #hiking  #myjourneybeforedestination";
+    string str = "Hello Hello how how are are you?";
     removeDupWord(str); 
     return 0; 
 } 
